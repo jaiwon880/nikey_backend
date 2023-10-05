@@ -1,5 +1,3 @@
-### 🔗 Deployment URL
-
 ### 📌 Summary
 
 2022.03~ 2022.11
@@ -54,7 +52,7 @@ PM, SA, Backend, 기획 총괄
 ![image](https://user-images.githubusercontent.com/71927533/199383804-caec3ecd-86ba-41b0-b74e-ea8f7e6c9f1b.png)
 
 
-### Expected Results
+### 👍 Expected Results
 
 - 기대효과 및 활용 분야
 
@@ -72,13 +70,13 @@ PM, SA, Backend, 기획 총괄
 
 ### 🛠️ Technology Stack
 
-Mobile App: Kotlin(Android), JavaScript
-Web: Python
-Server: AWS EC2
-DB: AWS RDS(MariaDB)
+- Mobile App: Kotlin(Android)
+- Web: Python, JavaScript
+- Server: AWS EC2
+- DB: AWS RDS(MariaDB)
 
 
 
 ### Design
-
-https://www.figma.com/file/cP74X2L2XI18MCsXvV3S7a/%EC%9C%A0%ED%82%A4%EC%A6%88?node-id=1740%3A2
+- Figma
+[웹사이트 초안](https://www.figma.com/file/cP74X2L2XI18MCsXvV3S7a/%EC%9C%A0%ED%82%A4%EC%A6%88?node-id=1740%3A2)
